@@ -31,6 +31,7 @@
 | `ui-ux-pro-max` | 67 种 UI 风格 + 161 套配色，自动推荐设计系统 |
 | `pptx` | 直接生成 .pptx 文件，支持母版、图表、动画 |
 | `project-bootstrap` | 新项目 AI 协作体系初始化 |
+| `web-access` | 联网操作统一入口，CDP 直连 Chrome，支持登录态、动态页面、社交媒体抓取 |
 | `09-feishu-expert` | 飞书文档/多维表格/机器人全链路操作 |
 
 ## 内容规范
