@@ -11,6 +11,7 @@
 | `cases/` | 实际项目中的 AI 编程案例 |
 | `notes/` | 零散笔记与踩坑记录 |
 | `skills/` | 自定义 Skill 文件，可直接用于 Claude Code |
+| `mcp/` | MCP Server 使用、配置和开发经验 |
 
 ## Skills
 
