@@ -1,0 +1,15 @@
+{
+  "name": "web-access",
+  "version": "1.0.0",
+  "description": "<div align=\"right\">   <details>     <summary>🌐 Language</summary>     <div>       <div align=\"center\">         <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=en\">English</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=zh-CN\">简体中文</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=zh-TW\">繁體中文</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=ja\">日本語</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=ko\">한국어</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=fr\">Français</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=de\">Deutsch</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=es\">Español</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=pt\">Português</a>         | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=ru\">Русский</a>       </div>     </div>   </details> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.20.0"
+  }
+}
