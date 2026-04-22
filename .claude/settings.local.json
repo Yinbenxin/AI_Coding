@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf skills/frontend-slides/.git)",
+      "Bash(git rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)",
+      "Bash(rm -rf /Users/yinbenxin/work/gitclone/github/AI_Coding/skills/web-access/.git)"
+    ]
+  }
+}
